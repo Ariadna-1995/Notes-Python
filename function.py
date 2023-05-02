@@ -2,7 +2,7 @@ import file_operation
 import Notepad
 import ui
 
-number = 6  # сколько знаков МИНИМУМ может быть в тексте заметки
+number = 6  
 
 
 def add():
